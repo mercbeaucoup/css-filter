@@ -72,7 +72,7 @@ swatch.style.backgroundColor = span.innerHTML = `#${colorStr}`;
 * What are some edge cases to consider? What if a color is completely saturated (#FF) or completely unsaturated (#00)?
 
 
-### Solution
+## Solution
 
 ```html
 
