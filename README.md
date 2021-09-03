@@ -1,7 +1,7 @@
 # Rose Filter
 
 ## Learning Objective
-- Understand relevance of hexadecimal arithmatic to CSS, create 
+- Understand relevance of hexadecimal arithmetic to CSS, create 
 prototype of popular app (Instagram)
 
 ## Prompt
