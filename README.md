@@ -123,7 +123,7 @@ const colorize = () => {
   let blueVal = (parseInt(colorStr.slice(4, 6), 16));
 
   // adjust values to be more rose, within (0,255) range
-  // NB: 25 == 10% of 255 (FF)
+  // NB: 25 == 10% of 255 (FF) (NOTE: THIS IS AN ESTIMATION. 10% OF 255 IS 25.5, BUT 25 IS EASIER TO WORK WITH)
   redVal < 205 ? redVal += 50 : redVal = 255; 
   greenVal > 24 ? greenVal -= 25 : greenVal = 0;
   blueVal < 230 ? blueVal += 25 : blueVal = 255;
