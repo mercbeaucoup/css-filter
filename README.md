@@ -26,11 +26,11 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 
 * A few examples for you, as the interviewer, to be aware of:
 
-  * #1AB20D	=> #4D9926
+  * #1AB20D	=> #4C9926
 
-  * #4C9926 => #7F803F
+  * #4C9926 => #7E803F
 
-  * #A02BFF => #D312FF
+  * #A02BFF => #D212FF
 
 ### Starting Point
 Share the link to this [JSFiddle Code Playground](https://jsfiddle.net/Lvkcbtq9/), which has the following starting-point code in it:
