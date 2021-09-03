@@ -62,7 +62,7 @@ swatch.style.backgroundColor = span.innerHTML = `#${colorStr}`;
 
 ```
 
-#### Solution
+### Solution
 
 ```html
 
