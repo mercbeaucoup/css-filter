@@ -15,7 +15,7 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 
 * A CSS color string (eg, `#F3A256`) actually is a concatenation of 3 2-digit hex strings ranging from 0 to 255 (FF in hex), for the Red, Green, and Blue Saturation of a color.
 
-* Prompt interviewee for how they would subtract 10% for the B/G values (10% must be converted to hexadecimal, which is 25)
+* Prompt interviewee for how they would subtract/add 10% for the G values (10% must be converted to hexadecimal, which is 25)
 
 
 * How does the interviewee plan to handle edge cases when the RGB value is already at its max or min values (0 or 255)
