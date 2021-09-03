@@ -61,6 +61,16 @@ swatch.style.backgroundColor = span.innerHTML = `#${colorStr}`;
 // Your Code Below
 
 ```
+### Additional questions to ask your interviewee to prompt their thinking:
+
+* How is measuring a number hexadecimal (base-16) different from decimal (base-10). What is 10% in base-16?
+
+* How is a 6-digit hex string constructed? How do those values correspond the a given RGB color value?
+
+* How can we convert numbers from decimal to hex, and vice versa?
+
+* What are some edge cases to consider? What if a color is completely saturated (#FF) or completely unsaturated (#00)?
+
 
 ### Solution
 
@@ -122,18 +132,8 @@ roseBtn.addEventListener('click', colorize));
 
 ```
 
-
 ### Notes
 
-Good sub-questions to ask:
-
-* How is measuring a number hexadecimal (base-16) different from decimal (base-10). What is 10% in base-16?
-
-* How is a 6-digit hex string constructed? How do those values correspond the a given RGB color value?
-
-* How can we convert numbers from decimal to hex, and vice versa?
-
-* What are some edge cases to consider? What if a color is completely saturated (#FF) or completely unsaturated (#00)?
-
 * [js-fiddle](https://jsfiddle.net/d1oescjn/)
+
 
