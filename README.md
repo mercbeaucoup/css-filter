@@ -145,4 +145,4 @@ roseBtn.addEventListener('click', colorize));
 * [JSFiddle Solution Code](https://jsfiddle.net/d1oescjn/)
 * [Slides](https://docs.google.com/presentation/d/1egDcITOpw6DkRkgxdg5XmSlP7fegPQz2sT4X93nqwZ8/edit#slide=id.gbe1461736e_0_13)
 * [parseInt Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
-* [Hexadecimal Wikipedia Page](https://en.wikipedia.org/wiki/Hexadecimal)
+* [YouTube Video About Hexadecimal And Why We Use It](https://www.youtube.com/watch?v=bOl7jGfossI)
