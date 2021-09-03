@@ -134,6 +134,6 @@ roseBtn.addEventListener('click', colorize));
 
 ### Notes
 
-* [js-fiddle](https://jsfiddle.net/d1oescjn/)
+* [JSFiddle Solution Code](https://jsfiddle.net/d1oescjn/)
 
 
