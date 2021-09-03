@@ -73,7 +73,7 @@ swatch.style.backgroundColor = span.innerHTML = `#${colorStr}`;
 
 * How is measuring a number hexadecimal (base-16) different from decimal (base-10). What is 10% in base-16?
 
-* How is a 6-digit hex string constructed? How do those values correspond the a given RGB color value?
+* How is a 6-digit hex string constructed? How do those values correspond to a given RGB color value?
 
 * How can we convert numbers from decimal to hex, and vice versa?
 
