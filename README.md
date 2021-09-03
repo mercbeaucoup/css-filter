@@ -2,7 +2,7 @@
 
 ## Learning Objective
 - Understand relevance of hexadecimal arithmetic to CSS, create 
-prototype of popular app (Instagram)
+prototype of a filter (often used in apps like Instagram)
 
 ## Prompt
 
