@@ -140,7 +140,7 @@ roseBtn.addEventListener('click', colorize));
 
 ```
 
-### Notes
+### Resources
 
 * [JSFiddle Solution Code](https://jsfiddle.net/d1oescjn/)
 * [Slides](https://docs.google.com/presentation/d/1egDcITOpw6DkRkgxdg5XmSlP7fegPQz2sT4X93nqwZ8/edit#slide=id.gbe1461736e_0_13)
