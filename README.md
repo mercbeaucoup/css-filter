@@ -25,6 +25,8 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 * Once the logical approach is solidified, how do we wire it together within the callback function of a click handler?
 
 ### Starting Point
+[jsfiddle](https://jsfiddle.net/Lvkcbtq9/)
+
 ```html
 
 <body>
@@ -59,9 +61,6 @@ swatch.style.backgroundColor = span.innerHTML = `#${colorStr}`;
 // Your Code Below
 
 ```
-
-
-[jsfiddle](https://jsfiddle.net/Lvkcbtq9/)
 
 #### Solution
 
