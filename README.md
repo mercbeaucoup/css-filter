@@ -24,6 +24,10 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 
 * Once the logical approach is solidified, how do we wire it together within the callback function of a click handler?
 
+* A few examples for testing:
+
+  * #1AB20D	=> 4C9926
+
 ### Starting Point
 Share the link to this [JSFiddle Code Playground](https://jsfiddle.net/Lvkcbtq9/), which has the following starting-point code in it:
 
