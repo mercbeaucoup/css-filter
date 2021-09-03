@@ -30,7 +30,7 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 
   * #4C9926 => #7F803F
 
-  * #A02BFF => #D212FF
+  * #A02BFF => #D312FF
 
 ### Starting Point
 Share the link to this [JSFiddle Code Playground](https://jsfiddle.net/Lvkcbtq9/), which has the following starting-point code in it:
