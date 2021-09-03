@@ -18,7 +18,7 @@ Design a simple web app that features a color swatch preview (in 6 color hex not
 * Prompt interviewee for how they would subtract 10% for the B/G values (10% must be converted to hexadecimal, which is 25)
 
 
-* How does the interviewee plan to handle edge cases when the RGB value is is already at its max or min values (0 or 255)
+* How does the interviewee plan to handle edge cases when the RGB value is already at its max or min values (0 or 255)
 
 * `ParseInt()` is a handy method for base conversions!
 
